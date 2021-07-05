@@ -7,7 +7,7 @@ var crops = {
   "bennesesame": {
     "name": "Benne Sesame",
     "url": "",
-    "img": "",
+    "img": "bennesesame.png",
     "seeds": {
       "pierre": 50,
       "joja": 50,
@@ -22,9 +22,7 @@ var crops = {
     "produce": {
       "extra": 1,
       "extraPerc": 0.2,
-      "price": 80,
-      "jarType": "",
-      "kegType": ""
+      "price": 80
     }
   },"amaranth": {
     "name": "Amaranth",
