@@ -4,13 +4,13 @@
 
 // Crop List
 var crops = {
+  // Bonster's Crops
   "bennesesame": {
     "name": "Benne Sesame",
-    "url": "",
     "img": "bennesesame.png",
     "seeds": {
       "pierre": 50,
-      "joja": 50,
+      "joja": 0,
       "special": 0,
       "specialLoc": "",
       "specialUrl": ""
@@ -24,7 +24,29 @@ var crops = {
       "extraPerc": 0.2,
       "price": 80
     }
-  },"amaranth": {
+  },
+  "chayote": {
+    "name": "Chayote",
+    "img": "",
+    "seeds": {
+      "pierre": 150,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.1,
+      "price": 75
+    }
+  },
+  // Base Game
+  "amaranth": {
     "name": "Amaranth",
     "url": "http://stardewvalleywiki.com/Amaranth",
     "img": "amaranth.png",
