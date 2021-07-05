@@ -106,6 +106,7 @@ var seasons = [
 		"crops": [
 			// Bonster's
 			crops.bennesesame,
+			crops.chayote,
 			// Base Game
 			crops.pineapple,
 			crops.blueberry,
