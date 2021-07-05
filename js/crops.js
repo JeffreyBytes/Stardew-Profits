@@ -4,7 +4,29 @@
 
 // Crop List
 var crops = {
-  "amaranth": {
+  "bennesesame": {
+    "name": "Benne Sesame",
+    "url": "",
+    "img": "",
+    "seeds": {
+      "pierre": 50,
+      "joja": 50,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 9,
+      "regrow": 0
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 80,
+      "jarType": "",
+      "kegType": ""
+    }
+  },"amaranth": {
     "name": "Amaranth",
     "url": "http://stardewvalleywiki.com/Amaranth",
     "img": "amaranth.png",

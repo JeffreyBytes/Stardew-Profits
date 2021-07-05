@@ -101,6 +101,7 @@ var seasons = [
 		"name": "Summer",
 		"duration": 28,
 		"crops": [
+			crops.bennesesame,
 			crops.pineapple,
 			crops.blueberry,
 			crops.starfruit,
