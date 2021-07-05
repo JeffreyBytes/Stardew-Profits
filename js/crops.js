@@ -22,7 +22,9 @@ var crops = {
     "produce": {
       "extra": 1,
       "extraPerc": 0.2,
-      "price": 80
+      "price": 80,
+      "jarType": "Pickles",
+      "kegType": "Juice"
     }
   },
   "chayote": {
@@ -42,7 +44,9 @@ var crops = {
     "produce": {
       "extra": 1,
       "extraPerc": 0.1,
-      "price": 75
+      "price": 75,
+      "jarType": "Pickles",
+      "kegType": "Juice"
     }
   },
   // Base Game
