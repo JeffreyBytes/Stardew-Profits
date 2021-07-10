@@ -80,7 +80,7 @@ var seasons = [
 		"name": "Spring",
 		"duration": 28,
 		"crops": [
-			// Bonster's
+			// Bonster's Fruits & Veggies
 			crops.chayote,
 			// Base Game
 			crops.coffeebean,
@@ -104,9 +104,10 @@ var seasons = [
 		"name": "Summer",
 		"duration": 28,
 		"crops": [
-			// Bonster's
+			// Bonster's Fruits & Veggies
 			crops.bennesesame,
 			crops.chayote,
+			crops.blackcurrant,
 			// Base Game
 			crops.pineapple,
 			crops.blueberry,
@@ -133,6 +134,9 @@ var seasons = [
 		"name": "Fall",
 		"duration": 28,
 		"crops": [
+			// Bonster's Fruits & Veggies
+			crops.blackbeans,
+			// Base Game
 			crops.sweetgemberry,
 			crops.cranberries,
 			crops.pumpkin,

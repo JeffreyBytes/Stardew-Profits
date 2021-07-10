@@ -27,6 +27,50 @@ var crops = {
       "kegType": "Juice"
     }
   },
+  "blackbeans": {
+    "name": "Black Beans",
+    "img": "",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 8,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 1,
+      "extraPerc": 0.2,
+      "price": 95,
+      "jarType": "Pickles",
+      "kegType": "Juice"
+    }
+  },
+  "blackcurrant": {
+    "name": "Blackcurrant",
+    "img": "",
+    "seeds": {
+      "pierre": 80,
+      "joja": 0,
+      "special": 0,
+      "specialLoc": "",
+      "specialUrl": ""
+    },
+    "growth": {
+      "initial": 13,
+      "regrow": 3
+    },
+    "produce": {
+      "extra": 4,
+      "extraPerc": 0.2,
+      "price": 75,
+      "jarType": "Jelly",
+      "kegType": "Wine"
+    }
+  },
   "chayote": {
     "name": "Chayote",
     "img": "",
