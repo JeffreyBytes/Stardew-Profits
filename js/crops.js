@@ -4,10 +4,10 @@
 
 // Crop List
 var crops = {
-  // Bonster's Crops
+  // Bonster's Fruit & Veggies
   "bennesesame": {
     "name": "Benne Sesame",
-    "img": "bennesesame.png",
+    "img": "",
     "seeds": {
       "pierre": 50,
       "joja": 0,
