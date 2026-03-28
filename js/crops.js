@@ -610,7 +610,8 @@ var crops = {
       "price": 30,
       "jarType": "Pickles",
       "kegType": "Juice",
-			"ages": false
+			"ages": false,
+      "millType": "Rice"
     }
   },
   "rhubarb": {
@@ -765,7 +766,8 @@ var crops = {
       "keg": 200,
       "jarType": "Pickles",
       "kegType": "Beer",
-			"ages": true
+			"ages": true,
+      "millType": "Wheat Flour"
     }
   },
   "radish": {
@@ -1042,7 +1044,8 @@ var crops = {
       "price": 100,
       "jarType": "Pickles",
       "kegType": "Juice",
-			"ages": false
+			"ages": false,
+      "millType": "Sugar"
     }
   },
   "ancientfruit": {
