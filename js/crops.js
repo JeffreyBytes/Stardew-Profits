@@ -98,7 +98,7 @@ var crops = {
     "produce": {
       "extra": 0,
       "extraPerc": 0,
-      "price": 70,
+      "price": 60,
       "jarType": "Jelly",
       "kegType": "Wine",
 			"ages": true,
